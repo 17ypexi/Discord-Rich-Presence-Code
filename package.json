@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hypêxilegend/Discord-Rich-Presence-Code.git"
+    "url": "git+https://github.com/17ypexi/Discord-Rich-Presence-Code.git"
   },
   "keywords": [
     "discord",
@@ -22,9 +22,9 @@
   "author": "snek <me@gus.host>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hypexilegend/Discord-Rich-Presence-Code/issues"
+    "url": "https://github.com/17ypexi/Discord-Rich-Presence-Code/issues"
   },
-  "homepage": "https://github.com/hypexilegend/Discord-Rich-Presence-Code#readme",
+  "homepage": "https://github.com/17ypexi/Discord-Rich-Presence-Code#readme",
   "dependencies": {
     "discord-rpc": "github:discordjs/rpc"
   },
